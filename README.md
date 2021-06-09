@@ -1,8 +1,8 @@
 ### Hola!!!! 👋
 
-👋 Me presento! soy Matias Leonardo Montechiari y soy fana del dev llevo en eso unos cuantos años ya! 
-🌱 Actualmente  mejorando mis habilidades en el desarrollo full stack, orientandolo al stack MERN. 
-⚡ Por lo personal me mucho el futbol y soy un apasionado por el mundo cripto 😄.
+👋 Me presento! soy Matias Leonardo Montechiari, soy fana del dev y llevo en eso unos cuantos años ya! 
+🌱 Actualmente estoy en el camino de mejorar mis habilidades en el desarrollo full stack, orientandolo al stack MERN. 
+⚡ Por lo personal me gusta mucho el futbol y soy un apasionado por el mundo cripto 😄.
 
 📫 Si necesitas contactarme este es mi mail: mlmontechiari@gmail.com
 
