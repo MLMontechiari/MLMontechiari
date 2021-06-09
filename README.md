@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Matias L. Montechiari, a full stack developer focused on front-end development. I'm currently improving my testing skills with Jest to improve my stack. I like to learn about what I do in detail and I like to do it constantly.
+
+📫 Feel free to contact me: mlmontechiari@gmail.com
+
+💾 Portfolio: 
+
+💬 LinkedIn: https://www.linkedin.com/in/matias-l-montechiari/
 <!--
 **MLMontechiari/MLMontechiari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
